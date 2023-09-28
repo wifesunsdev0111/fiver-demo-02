@@ -7,7 +7,7 @@ import { useSelector } from 'react-redux';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
 import { hot } from 'react-hot-loader';
 import IdleTimer from 'react-idle-timer';
-import { removeFocusOutline } from 'nasm-utils';
+import { removeFocusOutline } from './nasm-utils';
 import useReloadApp from './plugins/hooks/useReloadApp';
 import Preloader from './plugins/components/Preloader';
 import LiveMessages from './plugins/components/LiveMessages';
