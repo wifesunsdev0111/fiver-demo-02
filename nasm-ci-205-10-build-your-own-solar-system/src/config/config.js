@@ -151,7 +151,7 @@ const output = {
     mass: 2 * Math.pow(10, 10),
     radius: 75,
     displayRadius: 102,
-    image: SUN_IMAGE,
+    image: require('../assets/images/main/sun.png'),
     // gravity: {
     //   distanceExponent: 2,
     //   distanceMultiplier: 1,
@@ -164,7 +164,7 @@ const output = {
   },
   background: {
     name: 'background',
-    image: BG_IMAGE,
+    image: require('../assets/images/main/bg.png'),
   },
   gravity: {
     // distanceMultiplier: Math.pow(10, 9),

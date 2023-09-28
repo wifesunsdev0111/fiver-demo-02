@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.33137ba4.js",
+    "main.js": "/static/js/main.6789433e.js",
     "static/media/asteroids.wav": "/static/media/asteroids.a59a4a8a5db067617f25.wav",
     "static/media/bg.png": "/static/media/bg.0bedf6cb0bb2bab5a118.png",
     "static/media/Stable.wav": "/static/media/Stable.591779102b2ac4b55719.wav",
@@ -83,9 +83,9 @@
     "static/media/bigCircle.svg": "/static/media/bigCircle.caf825df2d0d778e53aed2cc80ec103f.svg",
     "index.html": "/index.html",
     "static/media/yarn.lock": "/static/media/yarn.31d6cfe0d16ae931b73c.lock",
-    "main.33137ba4.js.map": "/static/js/main.33137ba4.js.map"
+    "main.6789433e.js.map": "/static/js/main.6789433e.js.map"
   },
   "entrypoints": [
-    "static/js/main.33137ba4.js"
+    "static/js/main.6789433e.js"
   ]
 }

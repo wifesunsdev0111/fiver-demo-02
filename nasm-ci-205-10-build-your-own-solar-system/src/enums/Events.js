@@ -1,7 +1,8 @@
+import { REACT_APP_BASE_URL } from '../utils/config';
 export const TRACKING_ID = 'UA-171489797-27';
 
-export const LOCALHOST = 'http://localhost:4000/session';
-export const RESTART_CONFIGS_URL = 'http://localhost:4000/restart_config';
+export const LOCALHOST = REACT_APP_BASE_URL + '/session';
+export const RESTART_CONFIGS_URL = REACT_APP_BASE_URL + '/restart_config';
 
 export const KEYPAD_EVENTS = {
   CATEGORY: 'Sessions',
