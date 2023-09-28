@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="48px" viewBox="0 0 41 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>close-button</title>
+    <g id="Production_Beta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04.-Intro---3" transform="translate(-1556.000000, -180.000000)" fill="#FEFEFE">
+            <g id="pop_up" transform="translate(-172.000000, -431.000000)">
+                <g transform="translate(467.000000, 0.000000)">
+                    <g id="close-button" transform="translate(1261.000000, 611.000000)">
+                        <g id="X" transform="translate(0.042553, 0.000000)">
+                            <path d="M0.957446809,48 L39.9574468,48 L39.9574468,0 L0.957446809,0 L0.957446809,48 Z M3.72375596,45.2834979 L37.1889815,45.2834979 L37.1889815,2.71438646 L3.72375596,2.71438646 L3.72375596,45.2834979 Z" id="Fill-1"></path>
+                            <polygon id="Fill-1" points="26.1621376 12 20.4585129 21.0037188 14.7548882 12 10.9915619 12 18.5757837 23.9766248 10.9574468 36 14.7229052 36 20.4585129 26.9452807 26.1919884 36 29.9574468 36 22.3391099 23.9766248 29.9254639 12"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

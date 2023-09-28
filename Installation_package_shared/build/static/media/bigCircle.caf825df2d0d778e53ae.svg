@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1264px" height="1262px" viewBox="0 0 1264 1262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>02EB7408-2F13-41F8-A2AD-50FA972C3B5B</title>
+    <defs>
+        <linearGradient x1="-10.4355414%" y1="103.034745%" x2="57.0586584%" y2="43.2156918%" id="linearGradient-1">
+            <stop stop-color="#944996" stop-opacity="0.238335883" offset="0%"></stop>
+            <stop stop-color="#944996" offset="99.9709671%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Production_Beta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.-Attract-Screen" transform="translate(-328.000000, 80.000000)">
+            <g id="Purple-circle" transform="translate(328.500000, -80.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="632" cy="631" r="583.695371"></circle>
+                <circle id="Oval-Copy" stroke="#944996" stroke-width="2" cx="631.5" cy="631" r="630"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
